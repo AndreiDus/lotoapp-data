@@ -1,4 +1,4 @@
-Date,no.1,no.2,no.3,no.4,no.5,no.6,Jackpot,Additional_Number,Jackpot_SGD,Jackpot_USD
+Date,no.1,no.2,no.3,no.4,no.5,no.6,Additional_Number,Jackpot_SGD,Jackpot_USD
 28/08/1995,1,12,27,32,35,39
 31/08/1995,5,15,28,35,36,37
 04/09/1995,3,12,17,18,23,35
@@ -3410,4 +3410,4 @@ Date,no.1,no.2,no.3,no.4,no.5,no.6,Jackpot,Additional_Number,Jackpot_SGD,Jackpot
 24/09/2026,7,12,20,25,44,47
 24/09/2026,7,12,20,25,44,47
 28/09/2026,14,22,25,27,34,37
-01/10/2026,5,8,11,24,26,43,$1.000.000,20,1230000,960000
+01/10/2026,5,8,11,24,26,43,20,1230000,960000
