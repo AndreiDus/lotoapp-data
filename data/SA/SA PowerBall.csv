@@ -1,4 +1,4 @@
-Lottery_Name,Day,Day,Num1,Num2,Num3,Num4,Num5,BonusBall,NextJackpot,NextDrawDate
+Date,Day,Num1,Num2,Num3,Num4,Num5,BonusBall,NextJackpot,NextDrawDate,LegacyBlank
 23/10/2009,Fri,12,15,20,36,38,6,,,
 27/10/2009,Tue,5,15,17,31,37,3,,,
 30/10/2009,Fri,11,14,16,30,31,8,,,
