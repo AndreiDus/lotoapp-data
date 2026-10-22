@@ -1,4 +1,4 @@
-Date,Number 1,Number 2,Number 3,Number 4,Number 5,Euro No. 1,Euro No 2,Jackpot_EUR
+Date,Day,Num1,Num2,Num3,Num4,Num5,Euro1,Euro2,NextJackpot,NextDrawDate
 23/03/2012,5,8,21,37,46,6,8
 30/03/2012,5,7,12,19,26,1,5
 06/04/2012,7,8,34,36,38,4,5
