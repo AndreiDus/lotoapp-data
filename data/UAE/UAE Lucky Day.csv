@@ -1,4 +1,4 @@
-Date,Day_1,Day_2,Day_3,Day_4,Day_5,Day_6,Lucky_Month
+Date,Day,Num1,Num2,Num3,Num4,Num5,Num6,Month1,LuckyChanceIDs,NextJackpot,NextDrawDate
 14/12/2024,9,11,17,18,19,26,7
 28/12/2024,8,11,17,20,23,27,8
 11/01/2025,2,6,11,15,27,31,3
