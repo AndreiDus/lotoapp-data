@@ -1,4 +1,4 @@
-Date,Num1,Num2,Num3,Num4,Num5,Num6,Num7,Supp1,Supp2,Supp3
+Date,Day,Num1,Num2,Num3,Num4,Num5,Num6,Num7,Supp1,Supp2,Supp3,NextJackpot,NextDrawDate
 22/02/1994,4,15,19,37,40,43,,8,36,
 01/03/1994,3,11,20,31,34,42,,8,40,
 08/03/1994,6,7,9,28,44,45,,35,42,
