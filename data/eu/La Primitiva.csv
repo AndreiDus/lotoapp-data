@@ -1,4 +1,4 @@
-Date,Day,Num1,Num2,Num3,Num4,Num5,Num6,Complementary,Reintegro,NextJackpot,NextDrawDate,Joker
+Date,Day,Num1,Num2,Num3,Num4,Num5,Num6,Complementary,Reintegro,Joker,NextJackpot,NextDrawDate,Joker
 17/10/1985,Thu,3,11,13,15,34,35,,,,,
 24/10/1985,Thu,5,16,18,29,43,44,,,,,
 31/10/1985,Thu,10,14,29,33,46,48,,,,,
@@ -4201,4 +4201,4 @@ Date,Day,Num1,Num2,Num3,Num4,Num5,Num6,Complementary,Reintegro,NextJackpot,NextD
 15/10/2026,Thu,6,17,24,35,39,47,18,3,,,
 17/10/2026,Sat,8,9,12,14,29,45,43,4,,,
 19/10/2026,Mon,4,29,31,43,44,49,48,7,,,
-22/10/2026,Thu,1,13,22,35,42,49,17,1,€41,000,000,24/10/2026
+22/10/2026,Thu,1,13,22,35,42,49,17,1,3832054,€41 Mil.,24/10/2026
